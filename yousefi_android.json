@@ -1,4 +1,5 @@
 {
     "isEnabled": true ,
-    "message": "Unhandled Exception: FormatException: Unexpected end of input (at character 1)"
+    "message": "Unhandled Exception: FormatException: Unexpected end of input (at character 1)",
+    "k": "kill"
    }
