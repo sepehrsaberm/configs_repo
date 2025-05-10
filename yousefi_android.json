@@ -1,3 +1,4 @@
 {
-    "isEnabled": true
+    "isEnabled": true ,
+    "message": "Unhandled Exception: FormatException: Unexpected end of input (at character 1)"
    }
